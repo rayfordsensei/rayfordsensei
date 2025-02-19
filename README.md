@@ -2,7 +2,7 @@
 
 ### Hello there. 👋
 
-🎓 I'm [_**rayfordsensei**_](www.github.com/rayfordsensei).
+🎓 I'm [_**rayfordsensei**_](https://www.github.com/rayfordsensei).
 
 ✨ A beginner Python developer.
 

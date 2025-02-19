@@ -1,9 +1,9 @@
 <img align="left" src="https://raw.githubusercontent.com/rayfordsensei/rayfordsensei/refs/heads/main/assets/right.gif">
 
-### Hello there. 👋
+### &nbsp;Hello there. 👋
 
-🎓 I'm [_**rayfordsensei**_](https://www.github.com/rayfordsensei).
+&nbsp;🎓 I'm [_**rayfordsensei**_](https://www.github.com/rayfordsensei).
 
-✨ A beginner Python developer.
+&nbsp;✨ A beginner Python developer.
 
-🌱 I'm learning 🦅Falcon Web Framework and <img src="https://raw.githubusercontent.com/rayfordsensei/rayfordsensei/refs/heads/main/assets/ts.png" height=16>TypeScript.
+&nbsp;🌱 I'm learning 🦅Falcon Web Framework and <img src="https://raw.githubusercontent.com/rayfordsensei/rayfordsensei/refs/heads/main/assets/ts.png" height=16>TypeScript.

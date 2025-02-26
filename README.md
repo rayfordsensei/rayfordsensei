@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/rayfordsensei/rayfordsensei/refs/heads/main/assets/right.gif">
+<img align="left" src="./assets/right.gif">
 
 ### &nbsp;Hello there. 👋
 
@@ -7,3 +7,7 @@
 &nbsp;✨ A beginner Python developer.
 
 &nbsp;🌱 I'm learning 🦅Falcon Web Framework and <img src="https://raw.githubusercontent.com/rayfordsensei/rayfordsensei/refs/heads/main/assets/ts.png" height=16>TypeScript.
+
+<hr>
+
+<img align="left" src="./github-metrics.svg">

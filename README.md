@@ -6,4 +6,4 @@
 
 &nbsp;✨ A beginner Python developer.
 
-&nbsp;🌱 I'm learning 🦅Falcon Web Framework and <img src="https://raw.githubusercontent.com/rayfordsensei/rayfordsensei/refs/heads/main/assets/ts.png" height=16>TypeScript.
+&nbsp;🌱 I'm learning 🐍Python and 🦅Falcon Web Framework.
